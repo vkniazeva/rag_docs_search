@@ -44,4 +44,4 @@ These are starting choices and may change as experiments reveal practical constr
 
 ## Project notes
 
-The current project status, next action, and working decisions are tracked in [CODEX_PLAN.md](CODEX_PLAN.md). Decisions that prove useful will be summarized here as the project develops.
+TBD
