@@ -25,11 +25,15 @@ The project is being built incrementally. The first milestone is document ingest
 - Python
 - Docling for document parsing
 - PostgreSQL with pgvector for storage and vector search
-- OpenAI API for model and embedding experiments
+- Ollama for running local language and embedding models without a hosted API
 - FastAPI for a later service interface
 - LangGraph for orchestration when the individual components are ready
 
 These are starting choices and may change as experiments reveal practical constraints.
+
+## Cost constraint
+
+The project is designed to run without paid APIs or hosted database services. Models should run locally, and the license for each selected model must be checked before use. Local inference still uses the computer's storage and processing capacity.
 
 ## Development roadmap
 
